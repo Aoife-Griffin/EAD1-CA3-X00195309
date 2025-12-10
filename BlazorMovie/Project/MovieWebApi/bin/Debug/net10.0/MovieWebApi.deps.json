@@ -1,0 +1,110 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MovieWebApi/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly.Server": "10.0.1",
+          "Moviewasm": "1.0.0"
+        },
+        "runtime": {
+          "MovieWebApi.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly/10.0.1": {
+        "dependencies": {
+          "Microsoft.JSInterop.WebAssembly": "10.0.1"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Components.WebAssembly.dll": {
+            "assemblyVersion": "10.0.1.0",
+            "fileVersion": "10.0.125.57005"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly.Server/10.0.1": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly": "10.0.1"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll": {
+            "assemblyVersion": "10.0.1.0",
+            "fileVersion": "10.0.125.57005"
+          }
+        }
+      },
+      "Microsoft.DotNet.HotReload.WebAssembly.Browser/10.0.100": {
+        "runtime": {
+          "lib/net10.0/Microsoft.DotNet.HotReload.WebAssembly.Browser.dll": {
+            "assemblyVersion": "10.0.100.0",
+            "fileVersion": "10.1.25.52411"
+          }
+        }
+      },
+      "Microsoft.JSInterop.WebAssembly/10.0.1": {
+        "runtime": {
+          "lib/net10.0/Microsoft.JSInterop.WebAssembly.dll": {
+            "assemblyVersion": "10.0.1.0",
+            "fileVersion": "10.0.125.57005"
+          }
+        }
+      },
+      "Moviewasm/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly": "10.0.1",
+          "Microsoft.DotNet.HotReload.WebAssembly.Browser": "10.0.100"
+        },
+        "runtime": {
+          "Moviewasm.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieWebApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qh5mkVhHCv/fxPl8XCIwx+ea9uLeTbbVs2rzgvWkWX0EgYLITEEH3AbX6OuvDW8UQVETjio2UZOh6JDAO2A4Lw==",
+      "path": "microsoft.aspnetcore.components.webassembly/10.0.1",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.10.0.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly.Server/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fl9r0e2VGWcMgwBlGGVUFv84o8k1X6pxh9X3Ph6f5/hU8feqFpeqC9K9OrBXd7JhMD49GoLOl5jZW3pdp+9Fog==",
+      "path": "microsoft.aspnetcore.components.webassembly.server/10.0.1",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.server.10.0.1.nupkg.sha512"
+    },
+    "Microsoft.DotNet.HotReload.WebAssembly.Browser/10.0.100": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bTCi3TK6L54rXu7pA0duoG6/OFt//LI1tK+oPD3HTrT4ghzGi5Jgn52X8xeFGpqadSIGf5JgIxRV/uvKXNP+ig==",
+      "path": "microsoft.dotnet.hotreload.webassembly.browser/10.0.100",
+      "hashPath": "microsoft.dotnet.hotreload.webassembly.browser.10.0.100.nupkg.sha512"
+    },
+    "Microsoft.JSInterop.WebAssembly/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oIkAEHUSFduhX7scm0+RXODv7FtA/D0KaGW0dPmO1W6LL//VLHjS+pzhpgsS6fBQ+RZfOEFaTLkZewqi6xt8rw==",
+      "path": "microsoft.jsinterop.webassembly/10.0.1",
+      "hashPath": "microsoft.jsinterop.webassembly.10.0.1.nupkg.sha512"
+    },
+    "Moviewasm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jgs5nu7pLYs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\School Work\\BlazorMovie\\Project\\MovieApi\\MovieApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aoife\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\Aoife\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
